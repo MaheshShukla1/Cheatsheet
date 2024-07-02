@@ -1,5 +1,7 @@
 ## [HTTP Status Code Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/HTTP-Status-Code-Cheatsheet)
 
+## [Bash Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/_new)
+
 # Google Dork Cheatsheet
 
 ## What Is a Google Dork?
