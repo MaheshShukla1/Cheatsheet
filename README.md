@@ -2,6 +2,8 @@
 
 ## [Bash Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/_new)
 
+## [IPv4 Subnetting cheat sheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/IPv4-Subnetting-cheat-sheet)
+
 # Google Dork Cheatsheet
 
 ## What Is a Google Dork?
