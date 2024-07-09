@@ -4,6 +4,8 @@
 
 ## [IPv4 Subnetting cheat sheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/IPv4-Subnetting-cheat-sheet)
 
+## [Powershell Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/Powershell-Cheatsheet)
+
 # Google Dork Cheatsheet
 
 ## What Is a Google Dork?
