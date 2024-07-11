@@ -1,3 +1,94 @@
+# Cheat Sheet Repository for Tech Enthusiasts
+
+Welcome to the **Cheat Sheet Repository**! Here, you'll find a comprehensive collection of cheat sheets covering a wide range of technology topics. Whether you’re a beginner or a seasoned pro, this repository is your go-to resource for quick and easy access to essential tech information.
+
+## 📚 Table of Contents
+
+- [Introduction](#introduction)
+- [Available Cheat Sheets](#available-cheat-sheets)
+  - [Programming Languages](#programming-languages)
+  - [Web Development](#web-development)
+  - [Networking](#networking)
+  - [Cybersecurity](#cybersecurity)
+  - [Data Science](#data-science)
+  - [DevOps](#devops)
+  - [Database Management](#database-management)
+  - [Tools & Utilities](#tools--utilities)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+- [Contact](#contact)
+
+## 📖 Introduction
+
+This repository is designed to help you find quick references and cheat sheets for various technology-related topics. We cover everything from programming languages to cybersecurity tools, so you can find the information you need in just a few clicks.
+
+## 📜 Available Cheat Sheets
+
+Here’s a breakdown of the cheat sheets available in this repository:
+
+### Programming Languages
+
+- **Python**: [Python Cheat Sheet](path/to/python-cheat-sheet.md)
+- **JavaScript**: [JavaScript Cheat Sheet](path/to/javascript-cheat-sheet.md)
+- **Java**: [Java Cheat Sheet](path/to/java-cheat-sheet.md)
+- **C++**: [C++ Cheat Sheet](path/to/cpp-cheat-sheet.md)
+
+### Web Development
+
+- **HTML/CSS**: [HTML/CSS Cheat Sheet](path/to/html-css-cheat-sheet.md)
+- **React**: [React Cheat Sheet](path/to/react-cheat-sheet.md)
+- **Node.js**: [Node.js Cheat Sheet](path/to/nodejs-cheat-sheet.md)
+
+### Networking
+
+- **TCP/IP**: [TCP/IP Cheat Sheet](path/to/tcp-ip-cheat-sheet.md)
+- **OSI Model**: [OSI Model Cheat Sheet](path/to/osi-model-cheat-sheet.md)
+
+### Cybersecurity
+
+- **Snort Rules**: [Snort Rules Cheat Sheet](path/to/snort-rules-cheat-sheet.md)
+- **Wireshark**: [Wireshark Cheat Sheet](path/to/wireshark-cheat-sheet.md)
+
+### Data Science
+
+- **Pandas**: [Pandas Cheat Sheet](path/to/pandas-cheat-sheet.md)
+- **NumPy**: [NumPy Cheat Sheet](path/to/numpy-cheat-sheet.md)
+
+### DevOps
+
+- **Docker**: [Docker Cheat Sheet](path/to/docker-cheat-sheet.md)
+- **Kubernetes**: [Kubernetes Cheat Sheet](path/to/kubernetes-cheat-sheet.md)
+
+### Database Management
+
+- **SQL**: [SQL Cheat Sheet](path/to/sql-cheat-sheet.md)
+- **NoSQL**: [NoSQL Cheat Sheet](path/to/nosql-cheat-sheet.md)
+
+### Tools & Utilities
+
+- **Git**: [Git Cheat Sheet](path/to/git-cheat-sheet.md)
+- **Vim**: [Vim Cheat Sheet](path/to/vim-cheat-sheet.md)
+
+## 🤝 How to Contribute
+
+We welcome contributions from the community! If you’d like to add a new cheat sheet or improve existing ones, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your modifications and add new cheat sheets.
+4. Submit a pull request with a clear description of your changes.
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
+
+## 📧 Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **Email**: [Email](shuklalogic@gmail.com)
+- **GitHub**: [Github Profile](https://github.com/MaheshShukla1)
+
 ## [HTTP Status Code Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/HTTP-Status-Code-Cheatsheet)
 
 ## [Bash Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/_new)
