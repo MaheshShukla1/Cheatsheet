@@ -2,6 +2,16 @@
 
 Welcome to the **Cheat Sheet Repository**! Here, you'll find a comprehensive collection of cheat sheets covering a wide range of technology topics. Whether you’re a beginner or a seasoned pro, this repository is your go-to resource for quick and easy access to essential tech information.
 
+## [HTTP Status Code Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/HTTP-Status-Code-Cheatsheet)
+
+## [Bash Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/_new)
+
+## [IPv4 Subnetting cheat sheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/IPv4-Subnetting-cheat-sheet)
+
+## [Powershell Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/Powershell-Cheatsheet)
+
+## [Curl cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/Curl-CheatSheet)
+
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
@@ -88,14 +98,6 @@ For any questions or suggestions, feel free to reach out:
 
 - **Email**: [Email](shuklalogic@gmail.com)
 - **GitHub**: [Github Profile](https://github.com/MaheshShukla1)
-
-## [HTTP Status Code Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/HTTP-Status-Code-Cheatsheet)
-
-## [Bash Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/_new)
-
-## [IPv4 Subnetting cheat sheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/IPv4-Subnetting-cheat-sheet)
-
-## [Powershell Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/Powershell-Cheatsheet)
 
 # Google Dork Cheatsheet
 
