@@ -12,6 +12,8 @@ Welcome to the **Cheat Sheet Repository**! Here, you'll find a comprehensive col
 
 ## [Curl cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/Curl-CheatSheet)
 
+## [SQL Map Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/SQL-Map-Cheatsheet)
+
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
