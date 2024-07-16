@@ -1,6 +1,6 @@
 # Cheat Sheet Repository for Tech Enthusiasts
 
-Welcome to the **Cheat Sheet Repository**! Here, you'll find a comprehensive collection of cheat sheets covering a wide range of technology topics. Whether you’re a beginner or a seasoned pro, this repository is your go-to resource for quick and easy access to essential tech information.
+Welcome to the **Cheat Sheet Repository**! Here, you'll find a comprehensive collection of cheat sheets covering a wide range of technology topics. Whether you’re a beginner or a seasoned pro, this repository is your go-to resource for quick and easy access to essential tech information
 
 ## [HTTP Status Code Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/HTTP-Status-Code-Cheatsheet)
 
