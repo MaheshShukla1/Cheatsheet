@@ -16,6 +16,8 @@ Welcome to the **Cheat Sheet Repository**! Here, you'll find a comprehensive col
 
 ## [SQL Map Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/SQL-Map-Cheatsheet)
 
+## [Nmap Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/Nmap-Cheatsheet)
+
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
