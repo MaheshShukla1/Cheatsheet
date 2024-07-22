@@ -3,6 +3,8 @@
 Welcome to the **Cheat Sheet Repository**! Here, you'll find a comprehensive collection of cheat sheets covering a wide range of technology topics. Whether you’re a beginner or a seasoned pro, this repository is your go-to resource for quick and easy access to essential tech information
 [google-cloud-security-cheat-sheet.pdf](https://github.com/user-attachments/files/16315573/google-cloud-security-cheat-sheet.pdf)
 
+## [SSH Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/SSH-Cheatsheet)
+
 ## [Splunk Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/Splunk-Cheatsheet)
 
 ## [HTTP Status Code Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet/wiki/HTTP-Status-Code-Cheatsheet)
